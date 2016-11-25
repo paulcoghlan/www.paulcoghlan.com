@@ -1,0 +1,7 @@
+baseurl = "https://www.paulcoghlan.com"
+title = "Paul Coghlan's Blog"
+theme = "hyde"
+languageCode = "en-us"
+[params]
+  themeColor = "theme-base-08"
+  layoutReverse = true
