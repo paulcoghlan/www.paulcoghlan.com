@@ -1,4 +1,4 @@
-baseurl = "https://paulcoghlan.github.io/"
+baseurl = "https://www.paulcoghlan.com/"
 title = "Paul Coghlan's Blog"
 theme = "hyde"
 languageCode = "en-us"
