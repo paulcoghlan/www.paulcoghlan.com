@@ -5,3 +5,4 @@ languageCode = "en-us"
 [params]
   themeColor = "theme-base-08"
   layoutReverse = true
+  public = "/docs"
